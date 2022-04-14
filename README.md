@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=d6ace6&height=300&section=header&text=silver0727%20&fontSize=90&fontColor=ffffff)
 
 ## 🛠 Stack 🛠
+
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=black) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=black) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack) ![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence)
 
 
